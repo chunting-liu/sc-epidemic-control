@@ -1,0 +1,652 @@
+{
+  "phi=0.00,r=1": {
+    "phi": 0.0,
+    "r": 1.0,
+    "N": 893,
+    "E_directed": 2633,
+    "rho_operator": 16.756515007211355,
+    "rho_symmetric_r1": 16.756515007211366,
+    "beta_f_for_R0_1": 0.05967828033273259,
+    "beta_inflation_vs_symmetric": 1.0000000000000007,
+    "beta_forward": 0.08951742049909889,
+    "costs": {
+      "No control": 1106.211659045374,
+      "Uniform": 927.4789430495752,
+      "Econ.-criticality": 927.4789430495752,
+      "Degree-based": 190.73022302135874,
+      "Optimal": 113.05999330537716
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 16.157189678333317,
+      "Econ.-criticality": 16.157189678333317,
+      "Degree-based": 82.75825232343394,
+      "Optimal": 89.7795333848728
+    },
+    "seconds": 19.348156690597534
+  },
+  "phi=0.00,r=0.5": {
+    "phi": 0.0,
+    "r": 0.5,
+    "N": 893,
+    "E_directed": 2633,
+    "rho_operator": 11.848645390653282,
+    "rho_symmetric_r1": 16.756515007211366,
+    "beta_f_for_R0_1": 0.0843978334256541,
+    "beta_inflation_vs_symmetric": 1.414213562373098,
+    "beta_forward": 0.12659675013848115,
+    "costs": {
+      "No control": 984.0386339257632,
+      "Uniform": 830.6705913397885,
+      "Econ.-criticality": 830.6705913397885,
+      "Degree-based": 194.64357207641098,
+      "Optimal": 112.77251040779197
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 15.585571267067234,
+      "Econ.-criticality": 15.585571267067234,
+      "Degree-based": 80.21992578686752,
+      "Optimal": 88.53982897420472
+    },
+    "seconds": 19.515779495239258
+  },
+  "phi=0.00,r=0.25": {
+    "phi": 0.0,
+    "r": 0.25,
+    "N": 893,
+    "E_directed": 2633,
+    "rho_operator": 8.378257503605706,
+    "rho_symmetric_r1": 16.756515007211366,
+    "beta_f_for_R0_1": 0.11935656066546478,
+    "beta_inflation_vs_symmetric": 1.9999999999999944,
+    "beta_forward": 0.17903484099819716,
+    "costs": {
+      "No control": 928.8028873853852,
+      "Uniform": 791.637948755,
+      "Econ.-criticality": 791.637948755,
+      "Degree-based": 218.04390686229235,
+      "Optimal": 117.28564399237025
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.767927672631343,
+      "Econ.-criticality": 14.767927672631343,
+      "Degree-based": 76.52420014798898,
+      "Optimal": 87.372385940516
+    },
+    "seconds": 19.46320676803589
+  },
+  "phi=0.00,r=0.1": {
+    "phi": 0.0,
+    "r": 0.1,
+    "N": 893,
+    "E_directed": 2633,
+    "rho_operator": 5.298875306958049,
+    "rho_symmetric_r1": 16.756515007211366,
+    "beta_f_for_R0_1": 0.18871929269346685,
+    "beta_inflation_vs_symmetric": 3.1622776601683915,
+    "beta_forward": 0.28307893904020026,
+    "costs": {
+      "No control": 947.8073808545148,
+      "Uniform": 821.8489618247604,
+      "Econ.-criticality": 821.8489618247604,
+      "Degree-based": 289.65870940552907,
+      "Optimal": 131.49204433372606
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 13.28945327648684,
+      "Econ.-criticality": 13.28945327648684,
+      "Degree-based": 69.43907430385471,
+      "Optimal": 86.1267123479059
+    },
+    "seconds": 19.513554334640503
+  },
+  "phi=0.00,r=0": {
+    "phi": 0.0,
+    "r": 0.0,
+    "N": 893,
+    "E_directed": 2633,
+    "rho_operator": 0.0022403893327375924,
+    "rho_symmetric_r1": 16.756515007211366,
+    "beta_f_for_R0_1": 446.3509914939976,
+    "beta_inflation_vs_symmetric": 7479.287087452843,
+    "beta_forward": 669.5264872409964,
+    "costs": {
+      "No control": 3650.3930668702255,
+      "Uniform": 3571.823744253498,
+      "Econ.-criticality": 3571.823744253498,
+      "Degree-based": 3574.146465808568,
+      "Optimal": 3694.244453053581
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 2.152352395411805,
+      "Econ.-criticality": 2.152352395411805,
+      "Degree-based": 2.0887230406403834,
+      "Optimal": -1.201278475497225
+    },
+    "seconds": 26.154610872268677
+  },
+  "phi=0.02,r=1": {
+    "phi": 0.02,
+    "r": 1.0,
+    "N": 893,
+    "E_directed": 2686,
+    "rho_operator": 16.778156289445125,
+    "rho_symmetric_r1": 16.778156289445164,
+    "beta_f_for_R0_1": 0.05960130438343123,
+    "beta_inflation_vs_symmetric": 1.0000000000000022,
+    "beta_forward": 0.08940195657514685,
+    "costs": {
+      "No control": 1142.244466284156,
+      "Uniform": 956.5688622576408,
+      "Econ.-criticality": 956.5688622576408,
+      "Degree-based": 205.754310995154,
+      "Optimal": 116.68824917151036
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 16.25532970455422,
+      "Econ.-criticality": 16.25532970455422,
+      "Degree-based": 81.98684107750638,
+      "Optimal": 89.78430164331547
+    },
+    "seconds": 19.434435844421387
+  },
+  "phi=0.02,r=0.5": {
+    "phi": 0.02,
+    "r": 0.5,
+    "N": 893,
+    "E_directed": 2686,
+    "rho_operator": 11.87102514919589,
+    "rho_symmetric_r1": 16.778156289445164,
+    "beta_f_for_R0_1": 0.08423872306156618,
+    "beta_inflation_vs_symmetric": 1.413370461150246,
+    "beta_forward": 0.12635808459234926,
+    "costs": {
+      "No control": 1016.3671261440744,
+      "Uniform": 857.213377855157,
+      "Econ.-criticality": 857.213377855157,
+      "Degree-based": 211.00564198603692,
+      "Optimal": 116.6240508969493
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 15.6590806801003,
+      "Econ.-criticality": 15.6590806801003,
+      "Degree-based": 79.23922994375499,
+      "Optimal": 88.5254011176649
+    },
+    "seconds": 19.419116020202637
+  },
+  "phi=0.02,r=0.25": {
+    "phi": 0.02,
+    "r": 0.25,
+    "N": 893,
+    "E_directed": 2686,
+    "rho_operator": 8.416456969949076,
+    "rho_symmetric_r1": 16.778156289445164,
+    "beta_f_for_R0_1": 0.11881484139590992,
+    "beta_inflation_vs_symmetric": 1.9934939784462156,
+    "beta_forward": 0.17822226209386488,
+    "costs": {
+      "No control": 968.8988542125837,
+      "Uniform": 825.6493613998776,
+      "Econ.-criticality": 825.6493613998776,
+      "Degree-based": 245.69132945769533,
+      "Optimal": 122.8876330070151
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.784772650920697,
+      "Econ.-criticality": 14.784772650920697,
+      "Degree-based": 74.64221075404545,
+      "Optimal": 87.31677383323104
+    },
+    "seconds": 19.383568286895752
+  },
+  "phi=0.02,r=0.1": {
+    "phi": 0.02,
+    "r": 0.1,
+    "N": 893,
+    "E_directed": 2686,
+    "rho_operator": 5.4133425368871135,
+    "rho_symmetric_r1": 16.778156289445217,
+    "beta_f_for_R0_1": 0.18472874997026137,
+    "beta_inflation_vs_symmetric": 3.0994078381548937,
+    "beta_forward": 0.27709312495539207,
+    "costs": {
+      "No control": 998.712773771634,
+      "Uniform": 867.1779603145969,
+      "Econ.-criticality": 867.1779603145969,
+      "Degree-based": 361.4087003003701,
+      "Optimal": 142.99256104408266
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 13.170434674655906,
+      "Econ.-criticality": 13.170434674655906,
+      "Degree-based": 63.81254853329732,
+      "Optimal": 85.68231379437835
+    },
+    "seconds": 19.609747648239136
+  },
+  "phi=0.02,r=0": {
+    "phi": 0.02,
+    "r": 0.0,
+    "N": 893,
+    "E_directed": 2686,
+    "rho_operator": 3.1186896010420746,
+    "rho_symmetric_r1": 16.778156289445217,
+    "beta_f_for_R0_1": 0.3206474923525129,
+    "beta_inflation_vs_symmetric": 5.379873740509151,
+    "beta_forward": 0.4809712385287693,
+    "costs": {
+      "No control": 505.30295430163244,
+      "Uniform": 455.2181683054667,
+      "Econ.-criticality": 455.2181683054667,
+      "Degree-based": 389.9756849037934,
+      "Optimal": 154.6859310332156
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 9.911833202199816,
+      "Econ.-criticality": 9.911833202199816,
+      "Degree-based": 22.823391079759304,
+      "Optimal": 69.38748730511512
+    },
+    "seconds": 18.804747819900513
+  },
+  "phi=0.05,r=1": {
+    "phi": 0.05,
+    "r": 1.0,
+    "N": 893,
+    "E_directed": 2765,
+    "rho_operator": 16.80465764346486,
+    "rho_symmetric_r1": 16.804657643464882,
+    "beta_f_for_R0_1": 0.05950731167611074,
+    "beta_inflation_vs_symmetric": 1.0000000000000013,
+    "beta_forward": 0.0892609675141661,
+    "costs": {
+      "No control": 1210.7144574422352,
+      "Uniform": 1012.722973630518,
+      "Econ.-criticality": 1012.722973630518,
+      "Degree-based": 237.33532299488198,
+      "Optimal": 122.51847633599166
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 16.353276579350972,
+      "Econ.-criticality": 16.353276579350972,
+      "Degree-based": 80.39708524698067,
+      "Optimal": 89.88048126601007
+    },
+    "seconds": 19.421785354614258
+  },
+  "phi=0.05,r=0.5": {
+    "phi": 0.05,
+    "r": 0.5,
+    "N": 893,
+    "E_directed": 2765,
+    "rho_operator": 11.897350384776459,
+    "rho_symmetric_r1": 16.804657643464882,
+    "beta_f_for_R0_1": 0.08405232826290247,
+    "beta_inflation_vs_symmetric": 1.4124706005942034,
+    "beta_forward": 0.1260784923943537,
+    "costs": {
+      "No control": 1084.4725936119999,
+      "Uniform": 914.4249332272384,
+      "Econ.-criticality": 914.4249332272384,
+      "Degree-based": 249.22316156360134,
+      "Optimal": 123.38919350425972
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 15.68021740580756,
+      "Econ.-criticality": 15.68021740580756,
+      "Degree-based": 77.01895252755757,
+      "Optimal": 88.62219347625067
+    },
+    "seconds": 19.47412896156311
+  },
+  "phi=0.05,r=0.25": {
+    "phi": 0.05,
+    "r": 0.25,
+    "N": 893,
+    "E_directed": 2765,
+    "rho_operator": 8.467984280834699,
+    "rho_symmetric_r1": 16.804657643464882,
+    "beta_f_for_R0_1": 0.11809185832610318,
+    "beta_inflation_vs_symmetric": 1.9844932496507217,
+    "beta_forward": 0.17713778748915476,
+    "costs": {
+      "No control": 1056.5215224114477,
+      "Uniform": 902.3733054095795,
+      "Econ.-criticality": 902.3733054095795,
+      "Degree-based": 316.60926848943984,
+      "Optimal": 134.14586859964896
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.59016344977374,
+      "Econ.-criticality": 14.59016344977374,
+      "Degree-based": 70.03286144452619,
+      "Optimal": 87.30306333055393
+    },
+    "seconds": 19.47527837753296
+  },
+  "phi=0.05,r=0.1": {
+    "phi": 0.05,
+    "r": 0.1,
+    "N": 893,
+    "E_directed": 2765,
+    "rho_operator": 5.788106454703519,
+    "rho_symmetric_r1": 16.804657643464882,
+    "beta_f_for_R0_1": 0.17276807325949958,
+    "beta_inflation_vs_symmetric": 2.9033083228469505,
+    "beta_forward": 0.25915210988924936,
+    "costs": {
+      "No control": 1012.8983823799985,
+      "Uniform": 879.192336735209,
+      "Econ.-criticality": 879.192336735209,
+      "Degree-based": 450.9276471444879,
+      "Optimal": 156.7025237742983
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 13.200341512109192,
+      "Econ.-criticality": 13.200341512109192,
+      "Degree-based": 55.481452533772725,
+      "Optimal": 84.52929469527874
+    },
+    "seconds": 19.605565547943115
+  },
+  "phi=0.05,r=0": {
+    "phi": 0.05,
+    "r": 0.0,
+    "N": 893,
+    "E_directed": 2765,
+    "rho_operator": 4.453712003523106,
+    "rho_symmetric_r1": 16.804657643464882,
+    "beta_f_for_R0_1": 0.22453180609993434,
+    "beta_inflation_vs_symmetric": 3.7731801315782363,
+    "beta_forward": 0.3367977091499015,
+    "costs": {
+      "No control": 501.103067696267,
+      "Uniform": 446.8759185489387,
+      "Econ.-criticality": 446.8759185489387,
+      "Degree-based": 370.9110207353676,
+      "Optimal": 143.74441202430762
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 10.821556011745848,
+      "Econ.-criticality": 10.821556011745848,
+      "Degree-based": 25.981091586494255,
+      "Optimal": 71.31440190834448
+    },
+    "seconds": 18.635737895965576
+  },
+  "phi=0.10,r=1": {
+    "phi": 0.1,
+    "r": 1.0,
+    "N": 893,
+    "E_directed": 2896,
+    "rho_operator": 16.87710232205464,
+    "rho_symmetric_r1": 16.877102322054636,
+    "beta_f_for_R0_1": 0.05925187753902642,
+    "beta_inflation_vs_symmetric": 0.9999999999999998,
+    "beta_forward": 0.08887781630853964,
+    "costs": {
+      "No control": 1335.7211823490354,
+      "Uniform": 1120.3812266757436,
+      "Econ.-criticality": 1120.3812266757436,
+      "Degree-based": 316.85027341921824,
+      "Optimal": 136.53705243494636
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 16.121624671294732,
+      "Econ.-criticality": 16.121624671294732,
+      "Degree-based": 76.27871163486404,
+      "Optimal": 89.77802746267535
+    },
+    "seconds": 19.515745639801025
+  },
+  "phi=0.10,r=0.5": {
+    "phi": 0.1,
+    "r": 0.5,
+    "N": 893,
+    "E_directed": 2896,
+    "rho_operator": 11.977412574916697,
+    "rho_symmetric_r1": 16.87710232205461,
+    "beta_f_for_R0_1": 0.08349048625862794,
+    "beta_inflation_vs_symmetric": 1.4090774795049583,
+    "beta_forward": 0.12523572938794192,
+    "costs": {
+      "No control": 1208.2014505731845,
+      "Uniform": 1021.6581695383295,
+      "Econ.-criticality": 1021.6581695383295,
+      "Degree-based": 342.51155968947097,
+      "Optimal": 139.56689806709727
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 15.439749798873093,
+      "Econ.-criticality": 15.439749798873093,
+      "Degree-based": 71.65112162984248,
+      "Optimal": 88.44837522741881
+    },
+    "seconds": 19.522547721862793
+  },
+  "phi=0.10,r=0.25": {
+    "phi": 0.1,
+    "r": 0.25,
+    "N": 893,
+    "E_directed": 2896,
+    "rho_operator": 8.6857237474764,
+    "rho_symmetric_r1": 16.87710232205461,
+    "beta_f_for_R0_1": 0.11513145352919447,
+    "beta_inflation_vs_symmetric": 1.9430853216990904,
+    "beta_forward": 0.1726971802937917,
+    "costs": {
+      "No control": 1175.288145811614,
+      "Uniform": 1007.5681898538796,
+      "Econ.-criticality": 1007.5681898538796,
+      "Degree-based": 447.53879957075725,
+      "Optimal": 154.54098158014864
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.270539233756384,
+      "Econ.-criticality": 14.270539233756384,
+      "Degree-based": 61.92092967450955,
+      "Optimal": 86.85080062018086
+    },
+    "seconds": 19.642530918121338
+  },
+  "phi=0.10,r=0.1": {
+    "phi": 0.1,
+    "r": 0.1,
+    "N": 893,
+    "E_directed": 2896,
+    "rho_operator": 6.680297536886452,
+    "rho_symmetric_r1": 16.87710232205461,
+    "beta_f_for_R0_1": 0.14969393121763244,
+    "beta_inflation_vs_symmetric": 2.5263997941505876,
+    "beta_forward": 0.22454089682644868,
+    "costs": {
+      "No control": 943.7986425386719,
+      "Uniform": 811.5747372774431,
+      "Econ.-criticality": 811.5747372774431,
+      "Degree-based": 479.69939615859374,
+      "Optimal": 161.42754177420866
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.009757940058797,
+      "Econ.-criticality": 14.009757940058797,
+      "Degree-based": 49.173544595457685,
+      "Optimal": 82.8959764828657
+    },
+    "seconds": 19.587916374206543
+  },
+  "phi=0.10,r=0": {
+    "phi": 0.1,
+    "r": 0.0,
+    "N": 893,
+    "E_directed": 2896,
+    "rho_operator": 5.57453194870217,
+    "rho_symmetric_r1": 16.87710232205461,
+    "beta_f_for_R0_1": 0.17938725783656406,
+    "beta_inflation_vs_symmetric": 3.0275371057804845,
+    "beta_forward": 0.2690808867548461,
+    "costs": {
+      "No control": 591.0319940742169,
+      "Uniform": 518.1848949986519,
+      "Econ.-criticality": 518.1848949986519,
+      "Degree-based": 410.1487848879966,
+      "Optimal": 146.25215323128987
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 12.325407051723403,
+      "Econ.-criticality": 12.325407051723403,
+      "Degree-based": 30.604639173477032,
+      "Optimal": 75.25478236412955
+    },
+    "seconds": 18.659627676010132
+  },
+  "phi=0.20,r=1": {
+    "phi": 0.2,
+    "r": 1.0,
+    "N": 893,
+    "E_directed": 3160,
+    "rho_operator": 17.914343303381347,
+    "rho_symmetric_r1": 17.91434330338131,
+    "beta_f_for_R0_1": 0.05582119216233001,
+    "beta_inflation_vs_symmetric": 0.999999999999998,
+    "beta_forward": 0.08373178824349502,
+    "costs": {
+      "No control": 1486.6189095686395,
+      "Uniform": 1266.5777940006492,
+      "Econ.-criticality": 1266.5777940006492,
+      "Degree-based": 538.617116744753,
+      "Optimal": 165.51272913754514
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.801447375093456,
+      "Econ.-criticality": 14.801447375093456,
+      "Degree-based": 63.768985226951045,
+      "Optimal": 88.86649913624665
+    },
+    "seconds": 19.591593503952026
+  },
+  "phi=0.20,r=0.5": {
+    "phi": 0.2,
+    "r": 0.5,
+    "N": 893,
+    "E_directed": 3160,
+    "rho_operator": 13.121314546122258,
+    "rho_symmetric_r1": 17.91434330338131,
+    "beta_f_for_R0_1": 0.07621187621750368,
+    "beta_inflation_vs_symmetric": 1.3652857143551624,
+    "beta_forward": 0.11431781432625551,
+    "costs": {
+      "No control": 1300.3622703183428,
+      "Uniform": 1110.0349469012435,
+      "Econ.-criticality": 1110.0349469012435,
+      "Degree-based": 522.7447072779235,
+      "Optimal": 163.94051331780972
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.636484598288524,
+      "Econ.-criticality": 14.636484598288524,
+      "Degree-based": 59.80007116401879,
+      "Optimal": 87.39270455165735
+    },
+    "seconds": 19.525887966156006
+  },
+  "phi=0.20,r=0.25": {
+    "phi": 0.2,
+    "r": 0.25,
+    "N": 893,
+    "E_directed": 3160,
+    "rho_operator": 10.476383907660136,
+    "rho_symmetric_r1": 17.91434330338131,
+    "beta_f_for_R0_1": 0.09545278302266288,
+    "beta_inflation_vs_symmetric": 1.70997392433115,
+    "beta_forward": 0.1431791745339943,
+    "costs": {
+      "No control": 1074.7276681599137,
+      "Uniform": 915.7308828002897,
+      "Econ.-criticality": 915.7308828002897,
+      "Degree-based": 490.41017011486383,
+      "Optimal": 159.77644573674917
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.794146467993063,
+      "Econ.-criticality": 14.794146467993063,
+      "Degree-based": 54.368889473691915,
+      "Optimal": 85.13330860735083
+    },
+    "seconds": 19.6386935710907
+  },
+  "phi=0.20,r=0.1": {
+    "phi": 0.2,
+    "r": 0.1,
+    "N": 893,
+    "E_directed": 3160,
+    "rho_operator": 8.793532926400468,
+    "rho_symmetric_r1": 17.91434330338131,
+    "beta_f_for_R0_1": 0.11371993581757571,
+    "beta_inflation_vs_symmetric": 2.03721797067454,
+    "beta_forward": 0.17057990372636359,
+    "costs": {
+      "No control": 840.990032510145,
+      "Uniform": 718.7895365040392,
+      "Econ.-criticality": 718.7895365040392,
+      "Degree-based": 446.54749829476503,
+      "Optimal": 151.13145969687648
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 14.530552239884209,
+      "Econ.-criticality": 14.530552239884209,
+      "Degree-based": 46.90216518239433,
+      "Optimal": 82.02933996187959
+    },
+    "seconds": 19.669536352157593
+  },
+  "phi=0.20,r=0": {
+    "phi": 0.2,
+    "r": 0.0,
+    "N": 893,
+    "E_directed": 3160,
+    "rho_operator": 7.599550994563281,
+    "rho_symmetric_r1": 17.914343303381326,
+    "beta_f_for_R0_1": 0.1315867214675446,
+    "beta_inflation_vs_symmetric": 2.3572897025360113,
+    "beta_forward": 0.1973800822013169,
+    "costs": {
+      "No control": 668.8918070932672,
+      "Uniform": 579.8468149558747,
+      "Econ.-criticality": 579.8468149558747,
+      "Degree-based": 405.02541705918986,
+      "Optimal": 139.4822205420421
+    },
+    "reduction_pct": {
+      "No control": 0.0,
+      "Uniform": 13.312316161315518,
+      "Econ.-criticality": 13.312316161315518,
+      "Degree-based": 39.44829152277014,
+      "Optimal": 79.14726730647587
+    },
+    "seconds": 18.893063068389893
+  }
+}
