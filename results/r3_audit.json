@@ -1,0 +1,95 @@
+{
+  "email": {
+    "n_directed_edges": 25571,
+    "n_self_loops": 642,
+    "with_selfloops": {
+      "N": 986,
+      "E": 16375,
+      "kbar": 33.216024340770794,
+      "rho": 77.171762281623,
+      "trace": 623.0
+    },
+    "without_selfloops": {
+      "N": 986,
+      "E": 16064,
+      "kbar": 32.5841784989858,
+      "rho": 76.2661627399175,
+      "trace": 0.0
+    }
+  },
+  "binarisation": {
+    "phi": 0.1,
+    "N": 893,
+    "rho_of_A_plus_AT_true": 16.90898466538106,
+    "rho_of_binarised": 16.876848390202223,
+    "rho_sym_function_returns": 16.876848390202202,
+    "frac_offdiag_S_equal_2": 0.006906077348066298,
+    "n_reciprocal_pairs": 20,
+    "max_entry_of_S": 2.0
+  },
+  "multi_echelon": {
+    "phi=0.0,r=0.0": {
+      "rho": 0.0,
+      "rho_real_max": 0.0,
+      "n_edges": 2651,
+      "cycle_edge_share": 0.0,
+      "n_nontrivial_scc": 0
+    },
+    "phi=0.0,r=0.1": {
+      "rho": 5.292353508946301,
+      "rho_real_max": 5.292353508946301,
+      "n_edges": 2651,
+      "cycle_edge_share": 0.0,
+      "n_nontrivial_scc": 0
+    },
+    "phi=0.05,r=0.0": {
+      "rho": 4.801347783968337,
+      "rho_real_max": 4.801347783968337,
+      "n_edges": 2784,
+      "cycle_edge_share": 0.25395114942528735,
+      "n_nontrivial_scc": 1
+    },
+    "phi=0.05,r=0.1": {
+      "rho": 6.040248216633547,
+      "rho_real_max": 6.040248216633547,
+      "n_edges": 2784,
+      "cycle_edge_share": 0.25395114942528735,
+      "n_nontrivial_scc": 1
+    },
+    "phi=0.1,r=0.0": {
+      "rho": 6.1695269008310385,
+      "rho_real_max": 6.1695269008310385,
+      "n_edges": 2916,
+      "cycle_edge_share": 0.3782578875171468,
+      "n_nontrivial_scc": 1
+    },
+    "phi=0.1,r=0.1": {
+      "rho": 7.248562470529245,
+      "rho_real_max": 7.248562470529245,
+      "n_edges": 2916,
+      "cycle_edge_share": 0.3782578875171468,
+      "n_nontrivial_scc": 1
+    },
+    "phi=0.2,r=0.0": {
+      "rho": 8.207516156711058,
+      "rho_real_max": 8.207516156711058,
+      "n_edges": 3181,
+      "cycle_edge_share": 0.5309651053127947,
+      "n_nontrivial_scc": 1
+    },
+    "phi=0.2,r=0.1": {
+      "rho": 9.484348379741915,
+      "rho_real_max": 9.484348379741915,
+      "n_edges": 3181,
+      "cycle_edge_share": 0.5309651053127947,
+      "n_nontrivial_scc": 1
+    }
+  },
+  "beta_negativity": {
+    "n_settings": 48,
+    "n_worstcase_negative": 48,
+    "note": "worst case assumes mean prevalence 1; realised values checked below",
+    "max_realised_theta_M_at_equilibrium": 0.45498355893909637,
+    "realised_negative": false
+  }
+}

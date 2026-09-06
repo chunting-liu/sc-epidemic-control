@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Generated figures (regenerate with the figure scripts)
+figures/*.pdf
+figures/*.png
+figures/*.svg
+!figures/.gitkeep
+
+# Scratch
+*.log
+*.tmp

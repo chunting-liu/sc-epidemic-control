@@ -1,0 +1,92 @@
+{
+  "n_cases": 160,
+  "n_hopf": 22,
+  "ratio_spec_over_exact": {
+    "min": 0.3254546713424238,
+    "p05": 0.32604176392610434,
+    "median": 0.8888576282094898,
+    "p95": 1.0751046076196966,
+    "max": 1.2769132548503612,
+    "median_abs_rel_err": 0.11357343253300789,
+    "frac_within_25pct": 0.7619047619047619,
+    "n_over": 2,
+    "n": 21
+  },
+  "safe_trigger_coefficient": 0.7831385540102236,
+  "existence": {
+    "spectral": {
+      "TP": 21,
+      "FN": 1,
+      "FP": 1,
+      "TN": 137,
+      "acc": 0.9875
+    },
+    "meanfield": {
+      "TP": 16,
+      "FN": 6,
+      "FP": 127,
+      "TN": 11,
+      "acc": 0.16875
+    }
+  },
+  "spectral_disagreements": [
+    {
+      "R0": 2.0,
+      "theta_alpha": 2.0,
+      "delta": 0.8,
+      "I_endemic": 0.10590461226436727,
+      "omega_exact": null,
+      "tau_exact": null,
+      "tau_spectral": 42.371618630679976,
+      "tau_meanfield": 5.011796477903357
+    },
+    {
+      "R0": 3.0,
+      "theta_alpha": 1.8,
+      "delta": 0.8,
+      "I_endemic": 0.17145738199260657,
+      "omega_exact": 0.19077676378973804,
+      "tau_exact": 13.633158260785141,
+      "tau_spectral": null,
+      "tau_meanfield": null
+    }
+  ],
+  "simulation_crosscheck": [
+    {
+      "R0": 1.5,
+      "theta_alpha": 1.2,
+      "delta": 0.4,
+      "tau_exact": 213.215432582664,
+      "amp_at_0p7tau": 0.0003121272914716061,
+      "amp_at_1p4tau": 0.00020891156528399235,
+      "consistent": false
+    },
+    {
+      "R0": 1.5,
+      "theta_alpha": 1.8,
+      "delta": 0.6,
+      "tau_exact": 199.0379310194482,
+      "amp_at_0p7tau": 0.00033514914069576046,
+      "amp_at_1p4tau": 0.0004264578667348348,
+      "consistent": false
+    },
+    {
+      "R0": 3.0,
+      "theta_alpha": 2.0,
+      "delta": 0.6,
+      "tau_exact": 3.5211706565260616,
+      "amp_at_0p7tau": 0.0,
+      "amp_at_1p4tau": 0.28162390850814245,
+      "consistent": true
+    },
+    {
+      "R0": 3.0,
+      "theta_alpha": 2.4,
+      "delta": 0.8,
+      "tau_exact": 3.9692211388933094,
+      "amp_at_0p7tau": 0.0,
+      "amp_at_1p4tau": 0.2823442062946186,
+      "consistent": true
+    }
+  ]
+}

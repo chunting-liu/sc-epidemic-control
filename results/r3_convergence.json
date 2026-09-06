@@ -1,0 +1,40 @@
+{
+ "No control@0.05": 1744.2749093386556,
+ "Uniform@0.05": 1511.7363061468493,
+ "Econ.-criticality@0.05": 1512.2348763775917,
+ "Degree-based@0.05": 1083.688082714082,
+ "Myopic MPC@0.05": 530.1464377902566,
+ "Optimal@0.05": 213.0377689798412,
+ "No control@0.025": 1744.6331551669523,
+ "Uniform@0.025": 1512.0309286479644,
+ "Econ.-criticality@0.025": 1512.5412468288355,
+ "Degree-based@0.025": 1083.902522355103,
+ "Myopic MPC@0.025": 539.5255162270184,
+ "Optimal@0.025": 214.65002779085347,
+ "No control@0.0125": 1744.811442746139,
+ "Uniform@0.0125": 1512.177616126578,
+ "Econ.-criticality@0.0125": 1512.693797146637,
+ "Degree-based@0.0125": 1084.009508009569,
+ "Myopic MPC@0.0125": 544.3141095030347,
+ "Optimal@0.0125": 215.45428291992573,
+ "_summary": {
+  "max_rel_diff_pct": 2.602848514383237,
+  "ranking_dt005": [
+   "Optimal",
+   "Myopic MPC",
+   "Degree-based",
+   "Uniform",
+   "Econ.-criticality",
+   "No control"
+  ],
+  "ranking_dt00125": [
+   "Optimal",
+   "Myopic MPC",
+   "Degree-based",
+   "Uniform",
+   "Econ.-criticality",
+   "No control"
+  ],
+  "ranking_identical": true
+ }
+}
