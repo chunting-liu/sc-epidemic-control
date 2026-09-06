@@ -17,7 +17,7 @@ so a partially written file is resumed rather than restarted.
 | `r3_robustness.json` | `r3_control_and_robustness.py robust` | 120 misspecification scenarios, per-scenario costs and ranks |
 | `r3_structural.json` | `r3_structural.py` | directed, edge-weighted and second-network variants |
 | `r3_convergence.json` | `r3_convergence.py` | integration step-size refinement |
-|  `r3_prevalence.py` | `r3_prevalence.py` | endemic prevalence on the density-matched graphs |
+| `r3_prevalence.json` | `r3_prevalence.py` | endemic prevalence on the density-matched graphs |
 | `r3_audit.json` | `r3_audit.py` | self-loop counts, binarisation effect, acyclic-limit spectral radius, transmission-rate positivity bound |
 | `r2_multiechelon.json` | `r2_multiechelon.py` | layered multi-echelon sweep: spectral radius against recirculation share and backward/forward ratio |
 | `r2_perron_margin.json` | `r2_experiments.py` | Perron-certificate margin for the delay-independent stability result |
